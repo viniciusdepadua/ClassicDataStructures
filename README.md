@@ -1,2 +1,2 @@
 # CES-12
-All algorithms implemented in my data structures class at ITA (2020.1)
+All algorithms and data structures implemented in my data structures class at ITA (2020.1)
